@@ -1,4 +1,4 @@
-# API RESTFIL TS
+# API RESTFUL TS
 
 Este projeto consiste em um sistema de CRUD utilizando Express, Yup para validação de dados e Knex como query builder. O objetivo principal é demonstrar habilidades no desenvolvimento de backend, enfatizando a validação de dados, o tratamento de erros e o uso de TypeScript para uma melhor compreensão da lógica e identificação de erros.
 
